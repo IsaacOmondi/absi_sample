@@ -3,3 +3,11 @@
     background-position: center center;
     background-size: cover;
 }
+
+.col-md-6 #company_logo {
+    max-width: 100%;
+}
+
+.intro {
+    font-size: 16px;
+}

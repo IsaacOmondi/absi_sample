@@ -28,3 +28,21 @@ body {
 .module-heading {
     color: red;
 }
+
+.mission {
+    background-color: darkkhaki;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+
+.vision {
+    background-color: lightcyan;
+    height: 200px;
+    width: 100%;
+}
+
+.values {
+    background-color: lightseagreen;
+    color: white;
+}

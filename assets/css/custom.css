@@ -46,3 +46,6 @@ body {
     background-color: lightseagreen;
     color: white;
 }
+td>a:visited {
+    color: inherit;
+}
